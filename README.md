@@ -5,7 +5,7 @@ Report bugs encountered under github Issues tab
 
 The app uses a slightly modified verison of the Stockfish open source engine available for review in this repository
 
-Credit is also due to the following javascript libraries:
+Credit is due to the following javascript libraries:
 
 &nbsp;&nbsp;&nbsp;chess.js - https://github.com/jhlywa/chess.js/blob/master/README.md
 
