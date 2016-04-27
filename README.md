@@ -1,5 +1,5 @@
 # yehuda-opening-explorer
-Support Page for Yehuda Opening Explorer Mobile App
+Support Page for [Yehuda Opening Explorer Mobile App](http://chessopeningsapp.com/)
 
 Report bugs encountered under github Issues tab
 
