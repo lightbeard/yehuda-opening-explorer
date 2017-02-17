@@ -1,4 +1,4 @@
-# yehuda-opening-explorer
+# Arkon Chess Opening Explorer
 Support Page for [Arkon Opening Explorer Mobile App](http://chessopeningsapp.com/)
 
 ![alt tag](https://chessopeningsappdotcom.files.wordpress.com/2016/03/scotch1_iphone5s_silver_portrait.png?w=700)
