@@ -1,7 +1,7 @@
 # yehuda-opening-explorer
 Support Page for [Yehuda Opening Explorer Mobile App](http://chessopeningsapp.com/)
 
-![alt tag](https://chessopeningsappdotcom.files.wordpress.com/2016/03/scotch1.png?w=700)
+![alt tag](https://chessopeningsappdotcom.files.wordpress.com/2016/03/scotch1_iphone5s_silver_portrait.png?w=700)
 
 Report bugs encountered under github Issues tab
 
